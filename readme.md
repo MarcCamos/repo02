@@ -15,3 +15,14 @@ Git con los que hemos trabajando. Puedes utilizar tablas, imágenes, títulos, e
 IMPORTANTE no subas todo el código de golpe, ya que es mejor que practiques los
 conceptos.Por tanto, ves subiendo los cambios en distintas subidas a tu repositorio de
 GitHub y comprobando que los cambios se visualicen correctamente.
+
+|Comando |Utilidad |
+|:--- |:---- |
+|1. cd | sirve para desplacarnos por los directorios |
+|2. cd ..| sirve para retroceder |
+|3. ld| ver lo que contiene una carpeta |
+|4. mkdir| sirve para crear un nuevo fichero/carpeta |
+|5. git config user.name| ver que user name tenemos |
+|6. git config user.email| ver que email tenemos|
+|7. git config --global user.name| cambiar usuario |
+|8. git config --global user.email| cambiar email|
