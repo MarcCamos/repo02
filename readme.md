@@ -26,3 +26,12 @@ GitHub y comprobando que los cambios se visualicen correctamente.
 |6. git config user.email| ver que email tenemos|
 |7. git config --global user.name| cambiar usuario |
 |8. git config --global user.email| cambiar email|
+|9. git status| ver el estado del fichero |
+|10. git add .| subir todos los cambios |
+|11. git add index.html| subir solo los cambios de index.html|
+|12. git commit -m ""| añadir comentario a lo que subimos|
+|13. git log| ver el historial de commits|
+|14. git push| subir el contenido al repositorio remoto|
+|15. git remote -v| asociar el repositorio remoto con el local|
+|16. git pull| actualizar cambios desde git|
+|17. git clone| clonar un repositorio remoto|
